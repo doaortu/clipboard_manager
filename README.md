@@ -10,7 +10,8 @@ dependencies:
   # other dependencies
   # ....
 
-  clipboard_manager: ^x.y.z
+  clipboard_manager: 
+    git: https://github.com/doaortu/clipboard_manager.git
 ```
 
 2. Install the package by running the following command in your project directory:
